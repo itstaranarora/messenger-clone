@@ -1,6 +1,6 @@
-# Messanger Clone
+# Messenger Clone
 
-This is a Real-time chat app inspired from Facebook Massanger.
+This is a Real-time chat app inspired from Facebook Massenger.
 
 ![Messanger](./messanger.jpg)
 
