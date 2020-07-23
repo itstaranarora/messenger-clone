@@ -4,7 +4,7 @@ This is a Real-time chat app which allow people to chat with each other without 
 
 ![stangerchat](./stangerchat.jpg)
 
-Check out the live demo: https://massanger-clone.web.app/
+Check out the live demo: https://stangers-chat.web.app/
 
 This app is build using React and Firebase Database Services. This app make use of firebase onSnapshot function in order to send or receive data in Real-time.
 
