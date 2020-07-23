@@ -42,11 +42,11 @@ function App() {
       <div className="App__header">
         <h1>
           {" "}
-          <TelegramIcon /> Messanger
+          <TelegramIcon /> Strangers chat
         </h1>
         <h2>{username}</h2>
       </div>
-      <FlipMove>
+      <FlipMove className="app__cardConatiner">
         {message.map(({ id, data }) => (
           <Message key={id} username={username} text={data} />
         ))}
@@ -62,7 +62,6 @@ function App() {
             className="app__button"
             disabled={!input}
             variant="contained"
-            color="primary"
             type="submit"
           >
             <SendIcon />

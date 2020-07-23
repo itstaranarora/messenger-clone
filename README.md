@@ -1,8 +1,8 @@
-# Messenger Clone
+# Stangers chat
 
-This is a Real-time chat app inspired from Facebook Massenger.
+This is a Real-time chat app which allow people to chat with each other without revealing identity.
 
-![Messanger](./messanger.jpg)
+![stangerchat](./stangerchat.jpg)
 
 Check out the live demo: https://massanger-clone.web.app/
 
